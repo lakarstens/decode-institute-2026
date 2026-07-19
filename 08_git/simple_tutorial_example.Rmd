@@ -78,6 +78,5 @@ ggplot(pheno_select, aes(x = vo_max1, fill = sex)) +
 
 ```
 
-Now that you have completed this data visualization task, save the rmd as 
-<yourname>_viz.Rmd. This file can by pushed to your repository.
+Now that you have completed this data visualization task, save the Rmd. Push to your repository.
 
