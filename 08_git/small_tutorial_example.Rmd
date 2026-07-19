@@ -1,5 +1,5 @@
 ---
-title: "Simple Data Visualization Example"
+title: "Small Data Visualization Example"
 author: "Allissa Dillman PhD, Lisa Karstens PhD, Juliette Kudrick"
 date: "2026-07-15"
 output: html_document
